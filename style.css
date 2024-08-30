@@ -383,7 +383,7 @@ h1 span:nth-child(10) {
 } 
 .let {
   margin-top: 20vh;
-  font-size: 16px; /* Increase font size for better readability */
+  font-size: 10px; /* Increase font size for better readability */
   max-width: 600px; /* Increase max-width for better fit */
   margin-left: auto;
   margin-right: auto;
