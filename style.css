@@ -473,9 +473,3 @@ h1 span:nth-child(10) {
   opacity: 0;
   animation: textview 1s 20s ease forwards;
 }
-
-@media screen and (max-width: 330px){
-  marquee{
-    width: 250%;
-  }
-}
