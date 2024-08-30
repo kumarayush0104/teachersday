@@ -473,3 +473,9 @@ h1 span:nth-child(10) {
   opacity: 0;
   animation: textview 1s 20s ease forwards;
 }
+
+@media (max-width: 330px) {
+  .let{
+    font-size: 10px;
+  }
+}
